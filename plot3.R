@@ -1,7 +1,7 @@
 ## File:        plot3.R
 ## Author:      James Portman
 ## Date:        May 8, 2016
-## Description: Create a PNG file for the  plot required.
+## Description: Create a PNG file for the plot required.
 
 # Read the R code to load the power consumption data
 source("load_consumption_data.R")
